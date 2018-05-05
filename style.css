@@ -1,0 +1,22 @@
+body {
+	margin:0 auto;
+	font-family: 'Quicksand', sans-serif;
+	max-width: 900px;
+}
+header {
+	height: 100px;
+	background-color: blue;
+	text-align: center;
+}
+.container {
+	max-width: 900px;
+}
+
+.container__text {
+	text-align: center;
+	padding: 30px;
+}
+
+.container__text p {
+	padding: 10px 0 10px 0;
+}
